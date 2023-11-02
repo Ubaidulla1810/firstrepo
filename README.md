@@ -1,7 +1,7 @@
 # firstrepo
 my first repo
 <br> 
-ubaidulla khan (op)
+ubaidulla khan 
 <br>
 github repo
 <br>
